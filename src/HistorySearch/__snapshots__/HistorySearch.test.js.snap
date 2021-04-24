@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the HistorySearch component correctly 1`] = `
+<div>
+  <div
+    class="main"
+  >
+    <br />
+    <br />
+    <p
+      style="text-align: center;"
+    >
+      name: 
+      <input
+        type="text"
+      />
+      <button>
+        Search
+      </button>
+    </p>
+  </div>
+</div>
+`;

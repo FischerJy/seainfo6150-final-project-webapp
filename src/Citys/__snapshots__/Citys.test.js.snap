@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the Citys component correctly 1`] = `
+<div>
+  <div
+    class="city-list"
+    style="text-align: center;"
+  >
+    <a
+      href="/city/London"
+    >
+      London
+    </a>
+    <a
+      href="/city/Lobeira"
+    >
+      Lobeira
+    </a>
+    <a
+      href="/city/Cudillero"
+    >
+      Cudillero
+    </a>
+    <a
+      href="/city/Colunga"
+    >
+      Colunga
+    </a>
+    <a
+      href="/city/Somiedo"
+    >
+      Somiedo
+    </a>
+    <a
+      href="/city/Shanghai"
+    >
+      Shanghai
+    </a>
+  </div>
+</div>
+`;

@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the HisDetail component correctly 1`] = `
+<div>
+  <div
+    class="main"
+  >
+    <br />
+    <br />
+    <div>
+      <h1>
+         3 day Historical Weather Data
+         
+        2021-04-19
+         ~
+        2021-04-17
+      </h1>
+      <div>
+        <ul
+          class="ul-wrap"
+        >
+          <li>
+            <div>
+              <p>
+                time:
+                1970-01-01 08:00:00
+              </p>
+              <p>
+                temp:
+              </p>
+              <p>
+                wind_deg:
+              </p>
+              <p>
+                clouds:
+                %
+              </p>
+              <p>
+                feels_like:
+              </p>
+              <p>
+                visibility:
+                m
+              </p>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+`;

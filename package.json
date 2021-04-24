@@ -5,6 +5,7 @@
   "private": true,
   "proxy": "https://validator.w3.org/",
   "dependencies": {
+    "dayjs": "^1.10.4",
     "lodash": "4.17.20",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",

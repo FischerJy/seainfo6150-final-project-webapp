@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the DaysRes component correctly 1`] = `
+<div>
+  <div
+    class="main"
+  >
+    <br />
+    <br />
+    <div>
+      <h1>
+         Weathers Of 7 Days
+      </h1>
+      <div
+        class="card-wrap"
+      >
+        <div
+          class="card"
+        >
+          <a
+            href="/day/undefined/undefined/undefined/undefined"
+          >
+            <div>
+              <p>
+                Time:
+                Invalid Date
+                <br />
+                Invalid Date
+              </p>
+              <p>
+                Temp:
+              </p>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

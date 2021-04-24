@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the About component correctly 1`] = `
+<div>
+  <div
+    class="main"
+  >
+    <p>
+      About
+    </p>
+    this about website
+  </div>
+</div>
+`;

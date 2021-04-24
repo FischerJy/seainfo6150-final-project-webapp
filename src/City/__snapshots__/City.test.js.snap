@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the City component correctly 1`] = `
+<div>
+  <div
+    class="main"
+  >
+    <div
+      class="card-wrap"
+    >
+      <div
+        class="card"
+      >
+        <p>
+          name:
+        </p>
+        <p>
+          lat:
+        </p>
+        <p>
+          lon:
+        </p>
+        <br />
+        <div>
+          wind
+          <p>
+            speed:
+          </p>
+          <p>
+            deg:
+          </p>
+        </div>
+        <br />
+        <div>
+          temp
+          <p>
+            temp:
+          </p>
+          <p>
+            temp_max:
+          </p>
+          <p>
+            temp_min:
+          </p>
+        </div>
+        <br />
+        <div>
+          weather
+          <p>
+            main:
+          </p>
+          <p>
+            description:
+          </p>
+          <p>
+            <a
+              href="/hours/undefined/undefined/undefined/undefined"
+            >
+              Hours Detail
+            </a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the HoursDetail component correctly 1`] = `
+<div>
+  <div
+    class="main"
+  >
+    <br />
+    <br />
+    <div>
+      <h1>
+         48 hours a day weather Of
+         
+        Invalid Date
+      </h1>
+      <div>
+        <ul
+          class="ul-wrap"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

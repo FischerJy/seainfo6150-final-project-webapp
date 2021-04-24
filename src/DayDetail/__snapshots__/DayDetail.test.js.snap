@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the DayDetail component correctly 1`] = `
+<div>
+  <div
+    class="main"
+  >
+    <br />
+    <br />
+    <div>
+      <h1>
+         Weathers Of 
+        Invalid Date
+      </h1>
+      <div
+        class="card-wrap-a"
+      >
+        <div>
+          <p>
+            temp : 
+          </p>
+          <p>
+            wind_speed : 
+          </p>
+          <p>
+            clouds : 
+            %
+          </p>
+          <p>
+            feels_like : 
+          </p>
+          <p>
+            visibility : 
+            m
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

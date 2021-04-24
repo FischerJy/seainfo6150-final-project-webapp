@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the Search component correctly 1`] = `
+<div>
+  <div>
+    <br />
+    <br />
+    <p
+      style="text-align: center;"
+    >
+      name: 
+      <input
+        type="text"
+      />
+      <button>
+        Search
+      </button>
+    </p>
+  </div>
+</div>
+`;

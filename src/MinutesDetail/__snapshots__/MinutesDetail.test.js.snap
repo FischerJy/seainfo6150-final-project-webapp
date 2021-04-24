@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the MinutesDetail component correctly 1`] = `
+<div>
+  <div
+    class="main"
+  >
+    <br />
+    <br />
+    <div>
+      <h1>
+         60 minutes a hours weather Of
+         
+        1970-01-01 08:00:00
+        ~
+        1970-01-01 08:00:00
+      </h1>
+      <div>
+        <ul
+          class="ul-wrap"
+        >
+          <li>
+            <div>
+              <p>
+                time:
+                1970-01-01 08:00:00
+              </p>
+              <p>
+                precipitation:
+              </p>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+`;

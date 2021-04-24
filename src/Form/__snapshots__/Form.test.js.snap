@@ -1,0 +1,155 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the Form component correctly 1`] = `
+<div>
+  <div
+    class="main"
+  >
+    <form>
+      <p>
+        <label>
+          Your preferred email (required):
+          <input
+            name="email"
+            placeholder="xxxx@example.com"
+            required=""
+            type="email"
+          />
+        </label>
+      </p>
+      <p>
+        <label>
+          Your name (required):
+          <input
+            name="name"
+            placeholder="name"
+            required=""
+            type="text"
+          />
+        </label>
+      </p>
+      <p>
+        <label>
+          Your tel number (required):
+          <input
+            name="tel"
+            placeholder="123-45-678"
+            required=""
+            type="tel"
+          />
+        </label>
+      </p>
+      <p>
+        <label>
+          Favorite development language :
+          <select
+            name="language"
+          >
+            <option
+              value="html"
+            >
+              HTML
+            </option>
+            <option
+              value="css"
+            >
+              CSS
+            </option>
+            <option
+              value="js"
+            >
+              JAVASCRIPT
+            </option>
+          </select>
+        </label>
+      </p>
+      <p>
+        <label>
+          Favorite sport :
+          <select
+            name="sport"
+          >
+            <option
+              value="basketball"
+            >
+              BASKETBALL
+            </option>
+            <option
+              value="swimming"
+            >
+              SWIMMING
+            </option>
+            <option
+              value="running"
+            >
+              RUNNING
+            </option>
+            <option
+              value="dancing"
+            >
+              DANCING
+            </option>
+          </select>
+        </label>
+      </p>
+      <p>
+        What weather do you like
+      </p>
+      <p>
+        <label>
+          loudy :
+          <input
+            name="weather"
+            type="radio"
+            value="loudy"
+          />
+        </label>
+      </p>
+      <p>
+        <label>
+          rainy :
+          <input
+            name="weather"
+            type="radio"
+            value="rainy"
+          />
+        </label>
+      </p>
+      <p>
+        <label>
+          windy :
+          <input
+            name="weather"
+            type="radio"
+            value="windy"
+          />
+        </label>
+      </p>
+      <p>
+        <label>
+          snowy :
+          <input
+            name="weather"
+            type="radio"
+            value="snowy"
+          />
+        </label>
+      </p>
+      <p>
+        <label>
+          More Info (required, 800 chars max):
+          <textarea
+            maxlength="1000"
+            name="info"
+            required=""
+          />
+        </label>
+      </p>
+      <input
+        type="submit"
+        value="Send it"
+      />
+    </form>
+  </div>
+</div>
+`;
